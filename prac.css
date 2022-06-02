@@ -1,0 +1,32 @@
+img{
+    width: 15pc;
+    border-radius: 15%;
+   align-content: flex-start;
+   position: relative;
+   margin-left: 42pc;
+   
+}
+input{
+  background-color: #04AA6D;
+  color:white;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+} 
+input[type=text], input[type=password]{
+ padding: 10px 670px;
+ background-color: aliceblue;
+ padding: 12px 20px;
+
+}
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
